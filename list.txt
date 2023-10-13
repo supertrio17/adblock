@@ -2,5 +2,4 @@
 0.0.0.0 alions.pro
 0.0.0.0 awish.pro
 0.0.0.0 unity3dusercontent.com
-0.0.0.0 lunalabs.io
 0.0.0.0 tiktokv.com
