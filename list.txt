@@ -1,5 +1,4 @@
-||unity3d.com
+||configv2.unityads.unity3d.com^
 ||alions.pro^$media
 ||awish.pro^$media
-||unity3dusercontent.com
 ||tiktokv.com^$media
