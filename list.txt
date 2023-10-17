@@ -2,4 +2,4 @@
 ||alions.pro^$media
 ||awish.pro^$media
 ||unity3dusercontent.com^$media
-||tiktokv.com0^$media
+||tiktokv.com^$media
